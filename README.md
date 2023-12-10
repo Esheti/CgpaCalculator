@@ -1,0 +1,1 @@
+This is designed to effortlessly calculate cumulative grade point averages (CGPA) for students based on their academic performance. This program code allows users to input information about their courses, such as course code, course units, and scores, and it calculates the CGPA based on a predefined grading scale.
